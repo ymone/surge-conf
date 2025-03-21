@@ -1,6 +1,5 @@
 #!name=Unlock Fantastical
 #!desc=Fantastical
-#!system=ios
 
 [MITM]
 hostname = %APPEND% api.flexibits.com
